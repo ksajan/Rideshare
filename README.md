@@ -1,4 +1,4 @@
-# Churn Prediction for a Rideshare Company
+# Churn Rate Prediction for a Rideshare Company
 
 A ride-sharing company is interested in predicting rider retention.
 
